@@ -24,14 +24,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LeviEyal/typescript-library-template.git"
+    "url": "git+https://github.com/Zied-Mabrouk/typescript-library-template.git"
   },
   "author": "LeviEyal",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/LeviEyal/typescript-library-template/issues"
+    "url": "https://github.com/Zied-Mabrouk/typescript-library-template/issues"
   },
-  "homepage": "https://github.com/LeviEyal/typescript-library-template#readme",
+  "homepage": "https://github.com/Zied-Mabrouk/typescript-library-template#readme",
   "devDependencies": {
     "@rollup/plugin-commonjs": "^25.0.7",
     "@rollup/plugin-json": "^6.1.0",
